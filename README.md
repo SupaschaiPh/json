@@ -1,17 +1,17 @@
-# json-v1
+# json
 
 ## API Path
 - Countries
-  - https://supaschaiph.github.io/json-v1/countries/countries.json
-  - https://supaschaiph.github.io/json-v1/countries/th/countries.json
-  - https://supaschaiph.github.io/json-v1/countries/world.json
-  - https://supaschaiph.github.io/json-v1/countries/th/world.json
-  - https://supaschaiph.github.io/json-v1/countries/flags.json
-  - https://supaschaiph.github.io/json-v1/countries/subdivisions.json
+  - https://supaschaiph.github.io/json/countries/countries.json
+  - https://supaschaiph.github.io/json/countries/th/countries.json
+  - https://supaschaiph.github.io/json/countries/world.json
+  - https://supaschaiph.github.io/json/countries/th/world.json
+  - https://supaschaiph.github.io/json/countries/flags.json
+  - https://supaschaiph.github.io/json/countries/subdivisions.json
 - Employees
-  - https://supaschaiph.github.io/json-v1/employees/1.json
+  - https://supaschaiph.github.io/json/employees/1.json
 - Quizz
-  - https://supaschaiph.github.io/json-v1/quizz/1.json
+  - https://supaschaiph.github.io/json/quizz/1.json
 
 
 ## Ref
